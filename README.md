@@ -11,4 +11,4 @@ vpad is a text editor in which you can edit or save your text file for future us
 ![v4](https://user-images.githubusercontent.com/54996809/94415138-d3817480-019a-11eb-9e09-7621484f75d3.PNG)
 
 ![v5](https://user-images.githubusercontent.com/54996809/94415158-d8462880-019a-11eb-93cf-03f5fa7f4f6e.PNG)
-[https://www.linkedin.com/in/kalimuddin-shamsi-28a203193/](url)
+https://www.linkedin.com/in/kalimuddin-shamsi-28a203193/
